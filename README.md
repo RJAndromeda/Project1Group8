@@ -44,7 +44,7 @@ How are countries world wide rated according to AQI (Air Quality Index)?
 
 Can we measure countries’ economic prosperity according to environmental impact? 
 Variables being measured: GDP against CO2 emissions: is there a correlation? (Sagar)
-Scatterplot
+Scatterplot & Line graph
 
 Average CO₂ Emission in Billion tonnes per Year and how is has been varying over years (Priya)
 Line/Histograph

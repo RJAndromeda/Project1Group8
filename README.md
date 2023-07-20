@@ -3,9 +3,10 @@
 This repo contains the first group assignment for group 8: Priya, Raviska, Sagar and Rhiannyn
 
 # The folders and files in reading order are as follows:
-1. Cleaning Code contains 
-- the csv files of the original datasources (1.world-data-2023_original_raw, co2_emission_years, death_air_pollution) - See REFERENCES below for reference details
-- two Jupyter files : 1st_Jupyter_file_world_data_2023_cleanup, and Merged_Data_Sources, for the basic cleanup to arrive at - organised_world_data.csv 
+1 Original csv files and cleaning Code files: 
+- the csv files of the original datasources: world-data-2023_csv, co2_emission_years, death_air_pollution) - See REFERENCES below for reference details
+- two Jupyter files : orld_data_2023_cleanup, and Merged_Data_Sources, for the basic cleanup to arrive at - organised_world_data.csv 
+Output: organised_world_data.csv
 
 2.  World_Air_Quality_Data.ipynb - the jupyter file to pull the air quality data API request for the dataset
 

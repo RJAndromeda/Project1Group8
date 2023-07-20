@@ -3,7 +3,7 @@
 This repo contains the first group assignment for group 8: Priya, Raviska, Sagar and Rhiannyn
 
 # The folders and files in reading order are as follows:
-1. Cleaning_Merging_Raw_data contains 
+1. Cleaning Code contains 
 - the csv files of the original datasources (1.world-data-2023_original_raw, co2_emission_years, death_air_pollution) - See REFERENCES below for reference details
 - two Jupyter files : 1st_Jupyter_file_world_data_2023_cleanup, and Merged_Data_Sources, for the basic cleanup to arrive at - organised_world_data.csv 
 
